@@ -1,0 +1,23 @@
+sudo: false
+
+language: go
+
+git:
+  depth: 1
+
+install: 
+  - go get github.com/gohugoio/hugo
+
+script:
+  - git submodule init
+  - git submodule update
+  - hugo
+
+  # Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: public
+  on:
+    branch: master
