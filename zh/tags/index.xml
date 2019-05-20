@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Chun@ICS</title>
+    <link>/zh/tags/</link>
+    <description>Recent content in Tags on Chun@ICS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; Chun</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Data</title>
+      <link>/zh/tags/big-data/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/zh/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/zh/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>/zh/tags/source-themes/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

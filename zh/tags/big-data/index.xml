@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on Chun@ICS</title>
+    <link>/zh/tags/big-data/</link>
+    <description>Recent content in Big Data on Chun@ICS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; Chun</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/zh/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>面向大数据应用的分布式计算平台</title>
+      <link>/zh/project/bdkit/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/project/bdkit/</guid>
+      <description>基于Kubernetes的大数据应用开发和分布式运行平台</description>
+    </item>
+    
+  </channel>
+</rss>

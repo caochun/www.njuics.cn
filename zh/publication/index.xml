@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>论文 on Chun@ICS</title>
+    <link>/zh/publication/</link>
+    <description>Recent content in 论文 on Chun@ICS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; Chun</copyright>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/zh/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AimDroid: Activity-Insulated Multi-level Automated Testing for Android Applications</title>
+      <link>/zh/publication/aimdroid/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/publication/aimdroid/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+    </item>
+    
+  </channel>
+</rss>

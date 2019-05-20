@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究项目 on Chun@ICS</title>
+    <link>/zh/project/</link>
+    <description>Recent content in 研究项目 on Chun@ICS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; Chun</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/zh/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>面向大数据应用的分布式计算平台</title>
+      <link>/zh/project/bdkit/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/project/bdkit/</guid>
+      <description>基于Kubernetes的大数据应用开发和分布式运行平台</description>
+    </item>
+    
+    <item>
+      <title>面向深度学习的云计算平台</title>
+      <link>/zh/project/dlkit/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/project/dlkit/</guid>
+      <description>基于Kubernetes的深度学习分布式运行支撑平台</description>
+    </item>
+    
+    <item>
+      <title>人机物融合的云计算平台</title>
+      <link>/zh/project/2018yfb1004800/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/project/2018yfb1004800/</guid>
+      <description>国家重点研发计划《人机物融合的云计算架构与平台》课题。</description>
+    </item>
+    
+  </channel>
+</rss>

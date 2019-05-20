@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Chun@ICS</title>
+    <link>/en/tags/demo/</link>
+    <description>Recent content in Demo on Chun@ICS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Chun</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/en/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>人机物融合的云计算平台</title>
+      <link>/en/project/2018yfb1004800/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/project/2018yfb1004800/</guid>
+      <description>国家重点研发计划《人机物融合的云计算架构与平台》课题。</description>
+    </item>
+    
+  </channel>
+</rss>
